@@ -1,0 +1,4 @@
+*.override.yml
+__pycache__/
+*.py[cod]
+.vscode/settings.json
